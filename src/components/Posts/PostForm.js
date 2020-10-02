@@ -42,7 +42,6 @@ class PostForm extends Component{
             commented: false,
             reposted: false
         }
-        console.log(newPost);
         this.props.createPost(newPost);
         this.setState({
             content: "",
