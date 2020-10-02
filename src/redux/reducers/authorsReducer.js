@@ -23,6 +23,6 @@ const initialState = {
     }]
 }
 
-export const authorsReducer = (state = initialState, action) => {
+export const authorsReducer = (state = initialState) => {
     return state;
 }
