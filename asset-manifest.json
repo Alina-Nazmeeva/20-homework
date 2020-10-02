@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/20-homework/static/css/main.fbc7e09e.chunk.css",
+    "main.js": "/20-homework/static/js/main.d80db3e3.chunk.js",
+    "main.js.map": "/20-homework/static/js/main.d80db3e3.chunk.js.map",
+    "runtime-main.js": "/20-homework/static/js/runtime-main.45a2ec63.js",
+    "runtime-main.js.map": "/20-homework/static/js/runtime-main.45a2ec63.js.map",
+    "static/js/2.f47c2cd8.chunk.js": "/20-homework/static/js/2.f47c2cd8.chunk.js",
+    "static/js/2.f47c2cd8.chunk.js.map": "/20-homework/static/js/2.f47c2cd8.chunk.js.map",
+    "index.html": "/20-homework/index.html",
+    "precache-manifest.de8d230785aba23f8f52372132ba228b.js": "/20-homework/precache-manifest.de8d230785aba23f8f52372132ba228b.js",
+    "service-worker.js": "/20-homework/service-worker.js",
+    "static/css/main.fbc7e09e.chunk.css.map": "/20-homework/static/css/main.fbc7e09e.chunk.css.map",
+    "static/js/2.f47c2cd8.chunk.js.LICENSE.txt": "/20-homework/static/js/2.f47c2cd8.chunk.js.LICENSE.txt",
+    "static/media/Bikini.jpg": "/20-homework/static/media/Bikini.0eb9f4cb.jpg",
+    "static/media/BikiniPost.jpg": "/20-homework/static/media/BikiniPost.f4c90763.jpg",
+    "static/media/Cutie.JPG": "/20-homework/static/media/Cutie.faee0305.JPG",
+    "static/media/Milka.jpg": "/20-homework/static/media/Milka.f1723475.jpg",
+    "static/media/MilkaPost1.jpg": "/20-homework/static/media/MilkaPost1.5c2d8dbe.jpg",
+    "static/media/MilkaPost2.jpg": "/20-homework/static/media/MilkaPost2.84b8e246.jpg",
+    "static/media/Murka.jpg": "/20-homework/static/media/Murka.b9dc0917.jpg",
+    "static/media/MurkaPost1.jpg": "/20-homework/static/media/MurkaPost1.938f3236.jpg",
+    "static/media/MurkaPost2.jpg": "/20-homework/static/media/MurkaPost2.bf221a27.jpg",
+    "static/media/comments.png": "/20-homework/static/media/comments.c5cf7cd0.png",
+    "static/media/likes.png": "/20-homework/static/media/likes.f375abe3.png",
+    "static/media/App.css": "/20-homework/static/media/postBackground.252c5cbd.jpg",
+    "static/media/reposts.png": "/20-homework/static/media/reposts.80bfdd98.png",
+    "static/media/share.png": "/20-homework/static/media/share.5dec6e9e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.45a2ec63.js",
+    "static/js/2.f47c2cd8.chunk.js",
+    "static/css/main.fbc7e09e.chunk.css",
+    "static/js/main.d80db3e3.chunk.js"
+  ]
+}
