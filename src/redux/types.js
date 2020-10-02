@@ -1,0 +1,4 @@
+export const CREATE_POST = "CREATE_POST";
+export const TOGGLE_LIKE = "TOGGLE_LIKE";
+export const TOGGLE_COMMENT = "TOGGLE_COMMENT";
+export const TOGGLE_REPOST = "TOGGLE_REPOST";
